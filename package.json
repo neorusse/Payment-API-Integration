@@ -1,0 +1,20 @@
+{
+  "name": "applied-solar-tech",
+  "version": "1.0.0",
+  "description": "App built to sell an E-book called Applied Solar Technology",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Russell Nyorere",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "ravepay": "0.0.4"
+  },
+  "engines": {
+    "node": "4.2.4"
+  }
+}
