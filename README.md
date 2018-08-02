@@ -41,7 +41,7 @@ To access this project on the web, click on this link: [Solar E-book Selling App
 
 ## Contributing
 
-This project is open to contribution and improvement.
+This project is open to contribution and improvement. You are free for fork it and improve ont it.
 
 ## License
 
@@ -49,4 +49,4 @@ This [Solar E-book Selling App](https://mysterious-dusk-78639.herokuapp.com/) Pr
 
 ## Acknowledgemant
 
-I gratefull to [Google](https://www.google.com/) for providing me a scholarship on Web Development. [Traversymedia](https://www.traversymedia.com/), you are equally appreciated.
+I am gratefull to [Google](https://www.google.com/) for providing me a scholarship to study Web Development.
